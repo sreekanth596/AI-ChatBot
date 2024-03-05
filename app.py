@@ -77,7 +77,7 @@ def handle_userinput(user_question):
                 "{{MSG}}", message.content), unsafe_allow_html=True)
 
 def main():
-    st.set_page_config(page_title='ChatBot',page_icon=':book:')
+    st.set_page_config(page_title='UniqueBot',page_icon=':book:')
 
     st.write(css,unsafe_allow_html=True)
 
