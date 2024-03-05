@@ -1,6 +1,5 @@
-sentence-transformers
-uvicorn
-ctransformers
-langchain
-python-box
 streamlit
+PyPDF2 
+langchain 
+sentence_transformers
+CTransformers
